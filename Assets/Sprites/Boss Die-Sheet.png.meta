@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: be51c1f05ea7bd74cb076d70cb9212a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1611739156500692943
+    second: Boss Die-Sheet_0
+  - first:
+      213: -6417370318289617550
+    second: Boss Die-Sheet_1
+  - first:
+      213: -1472954066823775584
+    second: Boss Die-Sheet_2
+  - first:
+      213: -3380257648415531998
+    second: Boss Die-Sheet_3
+  - first:
+      213: -5406954943641291321
+    second: Boss Die-Sheet_4
+  - first:
+      213: -745847000570652208
+    second: Boss Die-Sheet_5
+  - first:
+      213: 8253027921789210767
+    second: Boss Die-Sheet_6
+  - first:
+      213: -9030414742105705022
+    second: Boss Die-Sheet_7
+  - first:
+      213: 5642999764223341673
+    second: Boss Die-Sheet_8
+  - first:
+      213: 8046213894694354648
+    second: Boss Die-Sheet_9
+  - first:
+      213: -1351254648384188646
+    second: Boss Die-Sheet_10
+  - first:
+      213: -4641712623703773713
+    second: Boss Die-Sheet_11
+  - first:
+      213: -5749783478333666885
+    second: Boss Die-Sheet_12
+  - first:
+      213: -5293958488475125675
+    second: Boss Die-Sheet_13
+  - first:
+      213: 4345289763945903916
+    second: Boss Die-Sheet_14
+  - first:
+      213: -9114604637878570653
+    second: Boss Die-Sheet_15
+  - first:
+      213: 7061246619843783000
+    second: Boss Die-Sheet_16
+  - first:
+      213: -8658952497585224271
+    second: Boss Die-Sheet_17
+  - first:
+      213: -5060710561177029037
+    second: Boss Die-Sheet_18
+  - first:
+      213: -8782751498814899723
+    second: Boss Die-Sheet_19
+  - first:
+      213: -3062042418454665021
+    second: Boss Die-Sheet_20
+  - first:
+      213: 378164521405296496
+    second: Boss Die-Sheet_21
+  - first:
+      213: 4712193012770766188
+    second: Boss Die-Sheet_22
+  - first:
+      213: -6636539928923629209
+    second: Boss Die-Sheet_23
+  - first:
+      213: -6122309375243480284
+    second: Boss Die-Sheet_24
+  - first:
+      213: -5829951766256345962
+    second: Boss Die-Sheet_25
+  - first:
+      213: 7035475528148268201
+    second: Boss Die-Sheet_26
+  - first:
+      213: 8092725890481450483
+    second: Boss Die-Sheet_27
+  - first:
+      213: -1206687670520889233
+    second: Boss Die-Sheet_28
+  - first:
+      213: -7270630904975633429
+    second: Boss Die-Sheet_29
+  - first:
+      213: 179296057745106982
+    second: Boss Die-Sheet_30
+  - first:
+      213: -5425605079477980184
+    second: Boss Die-Sheet_31
+  - first:
+      213: -555801676504967381
+    second: Boss Die-Sheet_32
+  - first:
+      213: 2016066793995289175
+    second: Boss Die-Sheet_33
+  - first:
+      213: 4889367398013346947
+    second: Boss Die-Sheet_34
+  - first:
+      213: 1913824003794630152
+    second: Boss Die-Sheet_35
+  - first:
+      213: 3410229533224937215
+    second: Boss Die-Sheet_36
+  - first:
+      213: -3585410196192203338
+    second: Boss Die-Sheet_37
+  - first:
+      213: -8302966409861013960
+    second: Boss Die-Sheet_38
+  - first:
+      213: -4388103801834614174
+    second: Boss Die-Sheet_39
+  - first:
+      213: 3874878050372038916
+    second: Boss Die-Sheet_40
+  - first:
+      213: 9154557291492259309
+    second: Boss Die-Sheet_41
+  - first:
+      213: 8779672458725623449
+    second: Boss Die-Sheet_42
+  - first:
+      213: -6950487036657882697
+    second: Boss Die-Sheet_43
+  - first:
+      213: -3369195580729397656
+    second: Boss Die-Sheet_44
+  - first:
+      213: 7576342112491819730
+    second: Boss Die-Sheet_45
+  - first:
+      213: -5752780233782053416
+    second: Boss Die-Sheet_46
+  - first:
+      213: 115554631414652754
+    second: Boss Die-Sheet_47
+  - first:
+      213: 5174995186610207155
+    second: Boss Die-Sheet_48
+  - first:
+      213: 7594174601046779352
+    second: Boss Die-Sheet_49
+  - first:
+      213: -3676667148255421367
+    second: Boss Die-Sheet_50
+  - first:
+      213: 1340301189028245454
+    second: Boss Die-Sheet_51
+  - first:
+      213: 3696014697675135651
+    second: Boss Die-Sheet_52
+  - first:
+      213: 5032834133862601583
+    second: Boss Die-Sheet_53
+  - first:
+      213: 3239080779560328912
+    second: Boss Die-Sheet_54
+  - first:
+      213: 4449900430436471822
+    second: Boss Die-Sheet_55
+  - first:
+      213: -6645828846705276707
+    second: Boss Die-Sheet_56
+  - first:
+      213: -1157010507872894924
+    second: Boss Die-Sheet_57
+  - first:
+      213: 3343803132312355226
+    second: Boss Die-Sheet_58
+  - first:
+      213: 6140293521397977501
+    second: Boss Die-Sheet_59
+  - first:
+      213: -593245450708107367
+    second: Boss Die-Sheet_60
+  - first:
+      213: 4948769647612887286
+    second: Boss Die-Sheet_61
+  - first:
+      213: 595115477129364880
+    second: Boss Die-Sheet_62
+  - first:
+      213: 4526847725781845391
+    second: Boss Die-Sheet_63
+  - first:
+      213: -6194374584748094037
+    second: Boss Die-Sheet_64
+  - first:
+      213: 135624881079895826
+    second: Boss Die-Sheet_65
+  - first:
+      213: -2628902252294523079
+    second: Boss Die-Sheet_66
+  - first:
+      213: -946003125532778203
+    second: Boss Die-Sheet_67
+  - first:
+      213: -4971516267975414556
+    second: Boss Die-Sheet_68
+  - first:
+      213: -3273057481391708958
+    second: Boss Die-Sheet_69
+  - first:
+      213: 4143749026799732908
+    second: Boss Die-Sheet_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss Die-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfbfc5393c0e5610800000000000000
+      internalID: 1611739156500692943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Die-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d363a32bbe0f6a0800000000000000
+      internalID: -6417370318289617550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Die-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa708c84140f8be0800000000000000
+      internalID: -1472954066823775584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Die-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c15e00499e611d0800000000000000
+      internalID: -3380257648415531998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Die-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5f7b34023a6f4b0800000000000000
+      internalID: -5406954943641291321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Die-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9123aca1836a5f0800000000000000
+      internalID: -745847000570652208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Die-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8050af1b25a88270800000000000000
+      internalID: 8253027921789210767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Die-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b65223a58da280800000000000000
+      internalID: -9030414742105705022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d5c3e5e7f2886284eb1319d31fd87305
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Boss Die-Sheet_0: 1611739156500692943
+      Boss Die-Sheet_1: -6417370318289617550
+      Boss Die-Sheet_2: -1472954066823775584
+      Boss Die-Sheet_3: -3380257648415531998
+      Boss Die-Sheet_4: -5406954943641291321
+      Boss Die-Sheet_5: -745847000570652208
+      Boss Die-Sheet_6: 8253027921789210767
+      Boss Die-Sheet_7: -9030414742105705022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
